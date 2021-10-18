@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<computer>
+    <software>
+        <operation_system>
+            Windows 11
+        </operation_system>
+        <office_software>
+            <office_programm>
+                Microsoft Word 2020
+            </office_programm>
+            <office_programm>
+                Microsoft PowerPoint 2020
+            </office_programm>
+            <office_programm>
+                Microsoft Outlook
+            </office_programm>
+        </office_software>
+        <antimalware_software>
+            Avast Antivirus
+        </antimalware_software>
+        <IDEs>
+            <IDE>
+                Intellij IDEA
+            </IDE>
+            <IDE>
+                Visual Studio 2020
+            </IDE>
+            <IDE>
+                Eclipse
+            </IDE>
+            <IDE>
+                NetBeans
+            </IDE>
+        </IDEs>
+        <graphic_editors>
+            <graphic_editor>
+                Adobe Photoshop
+            </graphic_editor>
+            <graphic_editor>
+                Adobe Illustrator
+            </graphic_editor>
+        </graphic_editors>
+        <browsers>
+            <browser>
+                Google Chrome
+            </browser>
+            <browser>
+                Mozila Firefox
+            </browser>
+            <browser>
+                Opera
+            </browser>
+            <browser>
+                Microsoft Edge
+            </browser>
+        </browsers>
+    </software>
+</computer>
